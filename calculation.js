@@ -5,3 +5,7 @@ function sum () {
     }
     return sum;
 }
+
+function product (x, y) {
+    return x * y;
+}
