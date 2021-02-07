@@ -5,4 +5,3 @@ function sum () {
     }
     return sum;
 }
-
